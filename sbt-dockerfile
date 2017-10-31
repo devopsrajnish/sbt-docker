@@ -1,7 +1,4 @@
 #sbt Dockerfile
-#
-#https://github.com/devopsrajnish/sbt-docker
-#
 
 # Pull base image
 FROM openjdk:8u141
